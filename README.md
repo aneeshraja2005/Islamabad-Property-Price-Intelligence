@@ -125,9 +125,5 @@ The analysis revealed multiple market segments ranging from budget properties in
 
 ✅ Data-Driven Investment Recommendations
 
----
 
-### Author
 
-**[Your Name]**
-Data Science Student | Machine Learning Enthusiast | Aspiring Geospatial & Analytics Professional
